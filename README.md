@@ -1,1 +1,1 @@
-# bootstrap-component
+# css-component
